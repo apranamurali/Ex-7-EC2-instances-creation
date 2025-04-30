@@ -1,4 +1,6 @@
 Ex-06-EC2 Instance Creation
+NAME:APARNA.M
+REG NO :212223220008
 Aim
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
